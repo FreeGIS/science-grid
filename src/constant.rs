@@ -1,0 +1,1 @@
+pub const INVALID: f64 = -99999999.0;
