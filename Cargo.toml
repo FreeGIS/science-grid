@@ -2,6 +2,10 @@
 name = "science-grid"
 version = "0.1.0"
 edition = "2021"
+authors = ["user <free_gis@qq.com>"]
+license = "BSD-3-Clause"
+description = "科学网格数据结构"
+repository = "https://github.com/FreeGIS/science-grid.git"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
