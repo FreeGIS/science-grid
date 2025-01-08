@@ -1,7 +1,7 @@
 mod constant;
 mod types;
 mod util;
-mod grid2d;
+pub mod grid2d;
 
 #[cfg(test)]
 mod tests {
